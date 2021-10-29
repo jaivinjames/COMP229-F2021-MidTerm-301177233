@@ -7,5 +7,6 @@
 
 module.exports = {
   //local MongoDB deployment ->
-  "URI": "mongodb://localhost/books229"
+  //"URI": "mongodb://localhost/books229"
+  "URI": "mongodb+srv://jaivinjames:xiZsT98eEltMMxrZ@dbserver.0k0mw.mongodb.net/books229?retryWrites=true&w=majority"
 };
